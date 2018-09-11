@@ -1,0 +1,11 @@
+table.dataTable thead th {
+    vertical-align: middle;
+  }
+
+  table.dataTable tbody th {
+    vertical-align: middle;
+  }
+
+table.dataTable tbody td {
+    vertical-align: middle;
+  }

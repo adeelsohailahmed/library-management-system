@@ -1,0 +1,89 @@
+html {
+    position: relative;
+    min-height: 100%;
+  }
+
+body
+{
+    min-height: 100%;
+    background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url('../../images/library1.jpg') center no-repeat fixed;
+    background-size: cover;
+    margin-bottom: 60px;  /* Height of the footer */
+      
+}
+
+@media screen and (min-width: 700px) and (max-width: 1000px)
+{
+    html {
+      font-size: 1.2rem;
+    }
+}
+
+@media screen and (max-width: 800px)
+{
+    html {
+        font-size: 0.8rem;
+    }
+}
+
+.navbar-dark
+{
+    background-color: #212529;
+}
+
+
+.author-photo
+{
+    width: auto;
+    height: auto;
+    max-width: 40%;
+    max-height: 100%;
+}
+
+#detailsCollapse
+{
+    background-color: #e9ecef;
+}
+
+.biography
+{
+    height: 70%;
+}
+
+
+.moreBooks
+{
+    max-height: 73%;
+    overflow-y: auto;
+}
+
+.bioButton
+{
+    margin-top: 12%;
+}
+
+.bioButtonReversed
+{
+    margin-top: 0;
+}
+
+
+footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    /* Set the fixed height of the footer here */
+    height: 30px;
+    line-height: 30px; /* Vertically center the text there */
+}
+
+.dropdown-menu
+{
+    background: #212529;
+}
+
+.dropdown-item
+{
+    color: #f8f9fa;
+}

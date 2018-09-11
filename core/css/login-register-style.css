@@ -1,0 +1,33 @@
+body, html
+{
+    height: 100%;
+    background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url('../../images/library1.jpg') center no-repeat fixed;
+    background-size: cover;
+      
+}
+
+@media screen and (min-width: 700px) and (max-width: 1000px)
+{
+    html {
+      font-size: 1.2rem;
+    }
+}
+
+@media screen and (max-width: 800px)
+{
+    html {
+        font-size: 0.8rem;
+    }
+}
+
+@media screen and (max-width: 500px)
+{
+    html {
+        font-size: 0.5rem;
+    }
+}
+
+.navbar-dark
+{
+    background-color: #212529;
+}
