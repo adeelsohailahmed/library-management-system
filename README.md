@@ -19,6 +19,6 @@ The project has been designed from the librarian's point of view. It allows the 
 ## Technical Details
 Front-end written using HTML5, CSS3, JavaScript, jQuery, and BootStrap 4.
 
-Back-end written in pure PHP (without using any PHP framework).
+Back-end written in pure PHP (without using any PHP framework). Works in both PHP 5.6 and PHP 7.
 
 The project tries to mimic a simple Model-View-Controller (MVC) architecture.
