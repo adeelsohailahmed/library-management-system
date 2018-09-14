@@ -1,6 +1,8 @@
 # Library Management System
 A rudimentary library management system, designed and developed for the class of subject 'Web Programming'.
 
+Demo hosted at: http://paklibrarymanagement.000webhostapp.com/
+
 ## Functionality
 The project has been designed from the librarian's point of view. It allows the librarian to:
 
