@@ -3,6 +3,7 @@ A rudimentary library management system, designed and developed for the class of
 
 Demo hosted at: http://paklibrarymanagement.000webhostapp.com/
 
+
 ## Functionality
 The project has been designed from the librarian's point of view. It allows the librarian to:
 
@@ -19,8 +20,10 @@ The project has been designed from the librarian's point of view. It allows the 
 9. View, Edit, or Remove details of an individual member.
 
 ## Technical Details
-Front-end written using HTML5, CSS3, JavaScript, jQuery, and BootStrap 4.
+Front-end written using HTML5, CSS3, JavaScript, jQuery, and BootStrap 4. Used AJAX for Input Validation and for presenting dynamic options. Also used DataTables to allow users to search the book listings with flexibility.
 
-Back-end written in pure PHP (without using any PHP framework). Works in both PHP 5.6 and PHP 7.
+Back-end written in pure PHP (without using any PHP framework). Used PHPMailer to send account activation emails. Used MySQL database, and PDO to query the database. Also used GoodReads API to display reviews and additional information about any book.
+
+Works in both PHP 5.6 and PHP 7.
 
 The project tries to mimic a simple Model-View-Controller (MVC) architecture.
