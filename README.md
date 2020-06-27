@@ -1,7 +1,7 @@
 # Library Management System
 A rudimentary library management system, designed and developed for the class of subject 'Web Programming'.
 
-Demo hosted at: http://paklibrarymanagement.000webhostapp.com/
+Live Demo will be hosted again at 000webhost when they sort several issues they're currently facing...
 
 
 ## Functionality
