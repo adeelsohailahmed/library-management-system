@@ -14,7 +14,7 @@ class UsersDatabaseConnection
         }
         catch (PDOException $e)
         {
-            alert('Cannot connect to database. Please try again later.');
+            echo 'Cannot connect to user database. Please try again later.';
         }
     }
 
@@ -35,7 +35,7 @@ class BooksDatabaseConnection
         }
         catch (PDOException $e)
         {
-            alert('Cannot connect to database. Please try again later.');
+            echo 'Cannot connect to books database. Please try again later.';
         }
     }
 
