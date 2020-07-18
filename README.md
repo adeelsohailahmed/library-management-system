@@ -1,8 +1,10 @@
 # Library Management System
 A rudimentary library management system, designed and developed for the class of subject 'Web Programming'.
 
-Live Demo will be hosted again at 000webhost when they sort several issues with their free plan they're currently facing...
+Live Demo is hosted at: https://paklibrary.000webhostapp.com/
 
+You can login with default email address: **adeel@example.com** and password: **adeelahmed**
+Or, alternatively, create a new account.
 
 ## Functionality
 The project has been designed from the librarian's point of view. It allows the librarian to:
