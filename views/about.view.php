@@ -9,14 +9,16 @@ require('views/partials/navigation.partialview.php');
             <h2>About This App</h2>
             <hr/>
             <p>
-            This app is a project for the subject Web Programming. App designed and developed by: 
+            This app  was a project for the class of Web Programming. App designed and developed by: 
             </p>
             <ul class="list-group list-group-flush bg-light">
-                <li class="list-group-item bg-light border border-0">Adeel Ahmed S/O Sohail Ahmed</li>
-                <li class="list-group-item bg-light">Class Roll # 07</li>
-                <li class="list-group-item bg-light">Web Programming</li>
-                <li class="list-group-item bg-light">BSCS V, Section A (Evening)</li>
-                <li class="list-group-item bg-light">FUUAST, Gulshan-e-Iqbal, Karachi</li>
+                <li class="list-group-item bg-light border-top-0">Adeel Ahmed</li>
+                <li class="list-group-item bg-light">
+                    <a href="https://github.com/adeelsohailahmed">View My Github Profile </a>
+                </li>
+                <li class="list-group-item bg-light">
+                    <a href="https://www.linkedin.com/in/adeelsohailahmed">View My LinkedIn Profile</a>
+                </li>
             </ul>
 
 </div>
